@@ -21,12 +21,12 @@
 // console.group('despedida');
 // 	console.log('adios');
 // 	console.group();
-// 		console.log('Carlos');
+// 		console.log('Neidys');
 // 	console.groupEnd();
 // console.groupEnd();
 
-console.count('veces');
-console.count('veces');
-console.count('veces');
-console.countReset('veces');
-console.count('veces');
+// console.count('veces');
+// console.count('veces');
+// console.count('veces');
+// console.countReset('veces');
+// console.count('veces');
